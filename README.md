@@ -1,19 +1,19 @@
 # InAmigos-Foundation-Task---1-NGO-Webpage-
 A modern, responsive NGO awareness website for InAmigos Foundation built using HTML, CSS, and JavaScript. Designed with advanced UI/UX, smooth animations, and interactive features to showcase projects, impact, and social initiatives.
-## 🚀 Features
+##  Features
 
-✨ Clean and modern UI/UX design  
-📱 Fully responsive (mobile, tablet, desktop)  
-🎯 Smooth scrolling navigation  
-🎨 Advanced CSS animations & transitions  
-📊 Animated impact counters  
-💫 Interactive buttons with ripple effects  
-🧭 Active navigation highlighting  
-🪟 Sticky header with scroll effects  
+ Clean and modern UI/UX design  
+ Fully responsive (mobile, tablet, desktop)  
+ Smooth scrolling navigation  
+ Advanced CSS animations & transitions  
+ Animated impact counters  
+ Interactive buttons with ripple effects  
+ Active navigation highlighting  
+ Sticky header with scroll effects  
 
 ---
 
-## 🧾 Sections Included
+##  Sections Included
 
 - Hero Section (Call-to-Action)
 - About the NGO
@@ -26,7 +26,7 @@ A modern, responsive NGO awareness website for InAmigos Foundation built using H
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML5
 - CSS3 (Advanced Styling + Animations)
@@ -34,14 +34,14 @@ A modern, responsive NGO awareness website for InAmigos Foundation built using H
 
 ---
 
-## 🔗 Live Features
+##  Live Features
 
 - "Become a Volunteer" and "Join Now" buttons redirect to the official NGO website:
-👉 https://inamigosfoundation.org.in/
+ https://inamigosfoundation.org.in/
 
 ---
 
-## 📌 About the Organization
+##  About the Organization
 
 **InAmigos Foundation** is a Section 8 registered non-profit organization founded on **23rd September 2020** by **Mr. Govind Shukla**.
 
@@ -61,7 +61,7 @@ The foundation works in areas like:
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
 **Soumik Roy**  
 Web Developer Intern  
@@ -69,7 +69,7 @@ InAmigos Foundation
 
 ---
 
-## 📜 Copyright
+##  Copyright
 
 © 2026 Soumik Roy. All Rights Reserved.
 
@@ -77,15 +77,15 @@ This project is developed for educational and internship purposes.
 
 ---
 
-## 💡 Future Enhancements
+##  Future Enhancements
 
-- Dark mode toggle 🌙  
-- Image gallery slider 🖼️  
-- Loader animation ⚡  
+- Dark mode toggle   
+- Image gallery slider   
+- Loader animation   
 - Advanced scroll animations  
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
